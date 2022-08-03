@@ -113,6 +113,10 @@ nav ul li{
  
 }
 
+nav ul li:first-child{
+    border: none
+}
+
 nav ul li a{
 font-size: 12px;
 line-height: 12px;
